@@ -337,18 +337,10 @@ The system currently detects:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
-
-For support, please:
-1. Check the [documentation](docs/)
-2. Open an [issue](https://github.com/your-username/fraud-detection-system/issues)
-3. Contact the development team
-
 ## 📞 Contact
 
-Project Maintainer: [Your Name](mailto:your.email@example.com)
+Project Maintainer: B M Al-amin Badhon(mailto:alamin.badhonn@gmail.com)
 
-Project Link: [https://github.com/your-username/fraud-detection-system](https://github.com/your-username/fraud-detection-system)
 
 ---
 
