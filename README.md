@@ -2,9 +2,9 @@
 
 A comprehensive, real-time fraud detection system built with Spring Boot and React. This system helps financial institutions detect and prevent fraudulent transactions using rule-based detection, machine learning, and real-time monitoring.
 
-![Java](https://img.shields.io/badge/Java-17-blue)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-green)
-![React](https://img.shields.io/badge/React-18-blue)
+![Java](https://img.shields.io/badge/Java-21-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-green)
+![React](https://img.shields.io/badge/React-19-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 
